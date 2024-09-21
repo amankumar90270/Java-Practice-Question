@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Swapping {
     public static void main(String[]args){
         Scanner sc= new Scanner(System.in);
-        int firstnumber,secondnumber,c;
+        int firstnumber,secondnumber;
 
         System.out.println("Enter First Number");
         firstnumber =sc.nextInt();
